@@ -6,17 +6,25 @@ I'm Sujit Mandava, a Senior at IIT Palakkad, pursuing my Bachelor of Technology 
 - 🎸 Rock and progressive fusion aficionado
 - 🏢 Open to work! Feel free to reach out for collaboration on captivating ML projects or job opportunities!
 - 📫 How to reach me: @_sujitmandava_ on Instagram; Email: sujitmandava123@gmail.com
-<!--
-**sujitmandava/sujitmandava** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<p align = "right">
+  <a href="https://github.com/sujitmandava">  
+  <img src ="https://komarev.com/ghpvc/?username=sujitmandava&color=2266aa&style=flat" alt="Profile Visitors"/>
+  </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align = "center">
+  <a href="https://github.com/sujitmandava">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sujitmandava&theme=nord_dark" />
+  </a>
+  <br/>
+  <br/>
+  <a href="https://github.com/sujitmandava">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sujitmandava&theme=nord_dark" />
+  </a>
+  &nbsp;
+  &nbsp;
+  <a href="https://github.com/sujitmandava">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sujitmandava&theme=nord_dark" />
+  </a>
+</p>
