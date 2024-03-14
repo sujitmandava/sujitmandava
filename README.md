@@ -6,7 +6,6 @@ I'm Sujit Mandava, a Senior at IIT Palakkad, pursuing my Bachelor of Technology 
 - 🎸 Rock and progressive fusion aficionado
 - 🏢 Open to work! Feel free to reach out for collaboration on captivating ML projects or job opportunities!
 - 📫 How to reach me: @_sujitmandava_ on Instagram; Email: sujitmandava123@gmail.com
-- 
 <!--
 **sujitmandava/sujitmandava** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
