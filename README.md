@@ -1,7 +1,7 @@
 ### Hi there 👋
 I'm Sujit Mandava, a Senior at IIT Palakkad, pursuing my Bachelor of Technology in Computer Science and Engineering. 
 - 🖥️ AI/ML enthusiast, exploring its various applications in domains like NLP and FinTech
-- 🗣️ Currently working on creating a disinformation detection system
+- 🗣️ Currently working on creating a fair disinformation detection system with respect to the Global North and Global South
 - ⚽ Avid football enthusiast, GGMU
 - 🎸 Rock and progressive fusion aficionado
 - 🏢 Open to work! Feel free to reach out for collaboration on captivating ML projects or job opportunities!
