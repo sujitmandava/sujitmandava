@@ -5,7 +5,7 @@ I'm Sujit Mandava, a Senior at IIT Palakkad, pursuing my Bachelor of Technology 
 - ⚽ Avid football enthusiast, GGMU
 - 🎸 Rock and progressive fusion aficionado
 - 🏢 Open to work! Feel free to reach out for collaboration on captivating ML projects or job opportunities!
-- 📫 How to reach me: @_sujitmandava_ on Instagram; Email: sujitmandava123@gmail.com
+- 📫 How to reach me: @\_sujitmandava_ on Instagram; Email: sujitmandava123@gmail.com
 
 <p align = "right">
   <a href="https://github.com/sujitmandava">  
