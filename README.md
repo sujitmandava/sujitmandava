@@ -1,9 +1,7 @@
 ### Hi there 👋
-I'm Sujit Mandava, a Senior at IIT Palakkad, pursuing my Bachelor of Technology in Computer Science and Engineering. 
-- 🖥️ AI/ML enthusiast, exploring its various applications in domains like NLP and FinTech
-- 🗣️ Currently working on creating a fair disinformation detection system with respect to the Global North and Global South
-- ⚽ Avid football enthusiast, GGMU
-- 🎸 Rock and progressive fusion aficionado
+I'm Sujit Mandava, an MSAI candidate at Northwestern University. I previously graduated from IIT Palakkad with a Bachelor of Technology degree in Computer Science and Engineering.  
+- 🖥️ AI/ML enthusiast, exploring its various applications in domains like NLP and FinTech.
+- 🎸 Rock music enthusiast.
 - 🏢 Open to work! Feel free to reach out for collaboration on captivating ML projects or job opportunities!
 - 📫 How to reach me: @\_sujitmandava_ on Instagram; Email: sujitmandava123@gmail.com
 
