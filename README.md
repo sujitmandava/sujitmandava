@@ -1,59 +1,55 @@
 ## Sujit Mandava
 
-MS in Artificial Intelligence candidate at Northwestern University.  
-Computer Science graduate from IIT Palakkad.
+MS in Artificial Intelligence, Northwestern University  
+B.Tech in Computer Science, IIT Palakkad
 
-I build applied machine learning and systems-heavy AI products, with emphasis on:
-- LLM systems, RAG, and AI governance
-- ML pipelines, evaluation, and observability
-- Data-centric and infrastructure-aware ML
+I build applied ML and AI systems with a focus on production constraints, evaluation, and governance.  
+My work sits at the intersection of LLM systems, ML infrastructure, and responsible deployment.
 
 ---
 
-## Selected Work
+## Selected Projects
 
-**ShadowAI – AI Usage Governance & Egress Control**
-- Built a proxy-layer system to monitor and control enterprise LLM usage.
-- Captures prompts, tool calls, and outputs to detect IP leakage and policy violations.
-- Focus on minimal latency, OpenAI-compatible APIs, and production deployability.
-- Stack: Python, FastAPI, Docker, Nginx, LLM APIs.
+**ShadowAI — Enterprise AI Usage Governance**
+- Designed a proxy-layer control plane for monitoring and enforcing policy on LLM usage.
+- Captures prompts, tool calls, and outputs to detect IP leakage, policy violations, and misuse.
+- OpenAI-compatible gateway with minimal latency impact.
+- Stack: Python, FastAPI, Docker, Nginx, cloud deployment.
 
-**Staleness-Aware RAG**
-- Designed a retrieval system that tracks document freshness and knowledge decay.
-- Prevents outdated context from dominating LLM responses.
-- Evaluated retrieval quality under time-based drift.
+**Staleness-Aware Retrieval-Augmented Generation**
+- Built a RAG system that tracks document freshness and mitigates knowledge decay.
+- Prevents outdated sources from dominating retrieval results.
+- Focus on evaluation under temporal drift rather than static accuracy.
 - Stack: Python, vector databases, custom evaluators.
 
-**ML Fairness & Disinformation Detection**
-- Trained and evaluated classifiers on globally skewed datasets.
-- Analyzed performance disparities across geopolitical regions.
-- Emphasis on evaluation metrics over raw accuracy.
-
-(Links to repos where applicable.)
+**Disinformation & Fairness Analysis**
+- Trained classifiers on globally skewed datasets.
+- Analyzed performance disparities across regions rather than aggregate metrics.
+- Emphasis on evaluation rigor and failure modes.
 
 ---
 
 ## Technical Focus
 
-- Languages: Python, C/C++, Go, SQL
-- ML: NLP, representation learning, evaluation, fairness
+- Languages: Python, Go, SQL
+- ML: NLP, LLM systems, evaluation, fairness
 - Systems: Docker, AWS, observability, distributed services
-- Data: pipelines, feature engineering, failure analysis
+- Data: pipelines, feature engineering, error analysis
 
 ---
 
 ## Experience
 
-- AI startup experience in healthcare automation
 - Data Engineer at Turing
-- Research and product-driven academic projects
+- AI startup experience in healthcare automation
+- Research-driven academic and independent projects
 
 ---
 
 ## Contact
 
 - Email: sujitmandava123@gmail.com
-- GitHub: https://www.github.com/sujitmandava
+- GitHub: https://github.com/sujitmandava
 - LinkedIn: https://www.linkedin.com/in/sujit-mandava
 
 ---
