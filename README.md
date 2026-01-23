@@ -40,8 +40,9 @@ My work sits at the intersection of LLM systems, ML infrastructure, and responsi
 
 ## Experience
 
-- Data Engineer at Turing
-- AI startup experience in healthcare automation
+- Software Engineer @ hGrid
+- Delivery Data Engineer @ Turing
+- Intern @ Arista Networks
 - Research-driven academic and independent projects
 
 ---
