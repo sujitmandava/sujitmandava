@@ -1,31 +1,14 @@
 ## Sujit Mandava
 
 MS in Artificial Intelligence, Northwestern University  
-B.Tech in Computer Science, IIT Palakkad
+B.Tech in Computer Science and Engineering, IIT Palakkad
 
 I work on applied ML and AI systems where correctness, evaluation, and real-world constraints matter.  
 I’m especially interested in LLM systems that need to operate reliably in production, where failure modes, data drift, and misuse are unavoidable rather than theoretical.
 
 My work tends to sit between modeling and systems: building things that run, measuring where they break, and designing guardrails around them.
 
----
-
-## Projects
-
-**ShadowAI — Enterprise AI Usage Governance**  
-Built a proxy-layer control plane to observe and enforce policy on LLM usage in enterprise settings. The system captures prompts, tool calls, and outputs to surface IP leakage risks, policy violations, and misuse patterns. Designed as an OpenAI-compatible gateway with minimal latency overhead, focusing on deployability rather than demos.  
-Stack: Python, FastAPI, Docker, Nginx, cloud deployment.
-
-**Staleness-Aware Retrieval-Augmented Generation**  
-Developed a RAG system that explicitly tracks document freshness to reduce the impact of outdated information. The focus was less on improving static accuracy and more on understanding how retrieval systems degrade under temporal drift, and how to evaluate them when the ground truth itself changes.  
-Stack: Python, vector databases, custom evaluation pipelines.
-
-**Disinformation & Fairness Analysis**  
-Trained and evaluated classifiers on globally imbalanced datasets, with an emphasis on regional performance disparities rather than aggregate metrics. This work focused on surfacing failure modes that are usually hidden by averaged benchmarks, especially in low-resource contexts.
-
----
-
-## Technical Focus
+## What I Do
 
 I enjoy ideating and building quickly, especially when ideas can be tested end-to-end in working systems.  
 I primarily use Python for ML and backend work, TypeScript or JavaScript for application logic and interfaces, and PostgreSQL for persistence.  
@@ -41,7 +24,7 @@ Software Engineer @ hGrid
 Delivery Data Engineer @ Turing  
 Intern @ Arista Networks  
 
-In addition to industry roles, much of my work has been research-driven or self-directed, usually motivated by gaps I noticed in how systems are evaluated or deployed.
+In addition to industry roles, much of my work has been research-driven or self-directed, usually motivated by gaps I noticed in how systems and operations are run, evaluated, or deployed.
 
 ---
 
