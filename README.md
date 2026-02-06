@@ -3,18 +3,13 @@
 MS in Artificial Intelligence, Northwestern University  
 B.Tech in Computer Science and Engineering, IIT Palakkad
 
-I work on applied ML and AI systems where correctness, evaluation, and real-world constraints matter.  
-I’m especially interested in LLM systems that need to operate reliably in production, where failure modes, data drift, and misuse are unavoidable rather than theoretical.
-
-My work tends to sit between modeling and systems: building things that run, measuring where they break, and designing guardrails around them.
-
 ## What I Do
 
-I enjoy ideating and building quickly, especially when ideas can be tested end-to-end in working systems.  
-I primarily use Python for ML and backend work, TypeScript or JavaScript for application logic and interfaces, and PostgreSQL for persistence.  
-My ML interests include NLP, LLM systems, evaluation methodology, and fairness.  
-On the systems side, I care about containerized services, cloud deployment, observability, and building things that are debuggable in production.  
-I spend a lot of time on data pipelines, feature construction, and error analysis rather than model-only iteration.
+- I enjoy ideating and building quickly, especially when ideas can be tested end-to-end in working systems.  
+- Python for ML and backend work, TypeScript or JavaScript for application logic and interfaces, and PostgreSQL for persistence.  
+- My ML interests include NLP, LLM systems, evaluation methodology, and fairness.  
+- I care about containerized services, cloud deployment, observability, and building things that are debuggable in production.  
+- I spend a lot of time on data pipelines, feature construction, and error analysis rather than model-only iteration.
 
 ---
 
