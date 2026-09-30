@@ -15,6 +15,7 @@ B.Tech in Computer Science and Engineering, IIT Palakkad
 
 ## Experience
 
+Applied Scientist Intern @ Relativity 
 Software Engineer @ hGrid  
 Delivery Data Engineer @ Turing  
 Intern @ Arista Networks  
